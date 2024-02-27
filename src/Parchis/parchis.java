@@ -26,6 +26,7 @@ public class parchis {
 			System.out.println(posFinal);
 			cursor = s.nextLine();
 			cursorS = cursor.split(" ");
+			//test
 		}
 	}
 }
